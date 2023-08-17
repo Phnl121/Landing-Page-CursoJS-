@@ -428,6 +428,12 @@
     .close-menu:checked~.close-menu-label::after{
       content:'×';
     }
+
+    h2{
+      font-size: 4rem;
+      justify-content: center;
+      align-items: center;
+    }
   }
 
   
